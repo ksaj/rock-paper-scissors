@@ -8,8 +8,8 @@ Output: the winner
 248 bytes.
 
 ## Usage:
-> (r 'rock 'scissors)
-> 1ST
+    > (r 'rock 'scissors)
+    ST
 
 # Thanks
 Thanks to '(Robert Smith) for the clever #!# trick.
