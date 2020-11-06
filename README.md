@@ -9,7 +9,7 @@ Output: the winner
 
 ## Usage:
     > (r 'rock 'scissors)
-    ST
+    1ST
 
 # Thanks
 Thanks to '(Robert Smith) for the clever #!# trick.
