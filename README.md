@@ -2,6 +2,7 @@
 Rock Paper Scissors in Common Lisp. Code Golf edition.
 
 Input:  'rock 'paper or 'scissors for both players
+
 Output: the winner
 
 248 bytes.
@@ -11,5 +12,4 @@ Output: the winner
 > 1ST
 
 # Thanks
-
 Thanks to '(Robert Smith) for the clever #!# trick.
