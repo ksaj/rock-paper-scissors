@@ -14,7 +14,7 @@ Output: the winner
     1ST
 
 # Thanks
-Thanks to '(Robert Smith) for the clever #!# trick. He followed up with:
+Thanks to '(Robert Smith) for the clever #1# trick. He followed up with:
 
      You can go further, e.g. #3=(eq a #1#) ;)
 
