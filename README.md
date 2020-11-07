@@ -7,7 +7,7 @@ Input:  'rock 'paper or 'scissors for both players
 
 Output: the winner
 
-248 bytes.
+239 bytes.
 
 ## Usage:
     > (r 'rock 'scissors)
