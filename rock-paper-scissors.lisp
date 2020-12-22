@@ -1,1 +1,1 @@
-(defun rps(a b)(cond((or(and(eq a'paper)(eq b'rock))(and(eq a'rock)(eq b'scissors))(and(eq a'scissors)(eq b'paper)))'1st)((or(and(eq a'scissors)(eq b'rock))(and(eq a'paper)(eq b'scissors))(and(eq a'rock)(eq b'paper)))'2nd)((eq a b)'tie)))
+(defun r(a b)(cond((or(and(eq a'paper)(eq b'rock))(and(eq a'rock)(eq b'scissors))(and(eq a'scissors)(eq b'paper)))'1st)((or(and(eq a'scissors)(eq b'rock))(and(eq a'paper)(eq b'scissors))(and(eq a'rock)(eq b'paper)))'2nd)((eq a b)'tie)))
